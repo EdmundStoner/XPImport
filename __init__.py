@@ -31,7 +31,7 @@ from mathutils import Vector
 
 bl_info = {
     "name" : "XPImport",
-    "author" : "Edmund Stoner",
+    "author" : "Edmund Stoner, original by David C. Prue",
     "description" : "Imports an X-Plane obj file into blender",
     "blender" : (2, 80, 0),
     "version" : (0, 5, 1),
