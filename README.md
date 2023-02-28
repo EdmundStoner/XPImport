@@ -1,7 +1,10 @@
 # XP-Import
-## Another wok in progress
+## Import X-plane object into blender
 
-### Import X-plane object into blender
+
+
+### Another wok in progress
+
 
 These files are a mod od David Prue's original XP-Import for Blender 2.8
 
